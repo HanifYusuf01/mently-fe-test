@@ -77,7 +77,7 @@ export default function GroupCalls() {
                       className=" rounded-lg object-cover"
                     />
                     <div>
-                      <p className='text-[#A195C0] text-[6.47px] md:text-[3px] lg:text-[6.47px]'>Study Group</p>
+                      <p className='text-[#A195C0] text-[6.4px] md:text-[3px] lg:text-[6.47px]'>Study Group</p>
                       <p className='text-[#595564] text-[8.8px] md:text-[3px] lg:text-[6.47px]'>UX Strategy Study group</p>
                     </div>
                     </div>
